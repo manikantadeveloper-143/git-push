@@ -1,1 +1,2 @@
 this is new file in this branch
+added some updations here and merge in master
